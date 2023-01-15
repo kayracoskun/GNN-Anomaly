@@ -1,2 +1,12 @@
 # GNN-Anomaly
 Anomaly Detection using Graph Neural Networks
+Ka|Ve
+
+## Fake News Detection
+Improved Fake News Detection using PyTorch Geometric
+
+*Colab Notebook*: https://colab.research.google.com/drive/1ZVZdehPPod6o4sF64QZa8I3NoSOH8MmC?usp=sharing
+
+*Youtube Video*: youtube.com/watch?v=QAIVFr24FrA
+
+*Article*: https://arxiv.org/pdf/2104.12259.pdf
