@@ -1,7 +1,6 @@
 # GNN-Anomaly
 Anomaly Detection using Graph Neural Networks
 
-Ka|Ve
 
 ## Related Works
 ### 1) Article
