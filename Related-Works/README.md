@@ -4,7 +4,7 @@ Anomaly Detection using Graph Neural Networks
 Ka|Ve
 
 ## Related Works
-1) Article
+### 1) Article
 
 User Preference-aware Fake News Detection article is the original work done. 
 
@@ -20,7 +20,7 @@ Four node features are used:
     - Bert: 768-dimensional Twitter user historical tweets encoded by bert-as-service.
     - Content: 310-dimensional spaCy (300-dimensional) + profile (10-dimensional)
 
-2) Original Code
+### 2) Original Code
 
 The original code is taken from the below Colab notebook and Youtube video.
 
@@ -28,19 +28,19 @@ The original code is taken from the below Colab notebook and Youtube video.
 
 *Youtube Video*: https://youtube.com/watch?v=QAIVFr24FrA 
 
-3) Fake News Profile
+### 3) Fake News Profile
 
 Original code changed for using profile attributes for node features.
 
-4) Fake News Spacy
+### 4) Fake News Spacy
 
 Original code changed for using spacy embeddings for node features.
 
-5) Fake News Bert
+### 5) Fake News Bert
 
 Original code changed for using bert embeddings for node features.
 
-6) Fake News Content
+### 6) Fake News Content
 
 Original code changed for using content for node features.
 
