@@ -1,8 +1,6 @@
 # GNN-Anomaly
 Anomaly Detection using Graph Neural Networks
 
-Ka|Ve
-
 ## Fake News Detection
 Improved Fake News Detection using PyTorch Geometric
 
